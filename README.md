@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋 My name is Maaz
+=====================
 
-<!--
-**maazh10/maazh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
+--------------------
 
-Here are some ideas to get you started:
+I am a recent-grad from the University of Toronto and a Junior Software Developer at Electric Mind. I have a keen interest in building innovative software and solving complex problems, particularly on the web. I have a broad range of school/professional experiences in data manipulation, automation, full-stack web development, dev-ops, as well as designing complex software architecture. I am extremely knowledge-driven, aspired by cutting-edge technologies and I'm eager to grow and use my skills to change the world someday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Toronto, ON
+*   🖥️  See my portfolio at [maazh.tech](http://maazh.tech/)
+*   ✉️  You can contact me at [mhashmi373@gmail.com](mailto:mhashmi373@gmail.com)
+*   🧠  I'm learning GO, Django, and Angular
+*   ⚡  I love music, photography, and basketball
